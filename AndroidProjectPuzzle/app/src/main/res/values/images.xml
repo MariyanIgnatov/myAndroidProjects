@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images4x4">
+        <item>@drawable/a0</item>
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a12</item>
+        <item>@drawable/a13</item>
+        <item>@drawable/a14</item>
+        <item>@drawable/a15</item>
+
+    </array>
+
+    <!--<array name="images5x5">-->
+        <!--<item>@drawable/b0</item>-->
+        <!--<item>@drawable/b1</item>-->
+        <!--<item>@drawable/b2</item>-->
+        <!--<item>@drawable/b3</item>-->
+        <!--<item>@drawable/b4</item>-->
+        <!--<item>@drawable/b5</item>-->
+        <!--<item>@drawable/b6</item>-->
+        <!--<item>@drawable/b7</item>-->
+        <!--<item>@drawable/b8</item>-->
+        <!--<item>@drawable/b9</item>-->
+        <!--<item>@drawable/b10</item>-->
+        <!--<item>@drawable/b11</item>-->
+        <!--<item>@drawable/b12</item>-->
+        <!--<item>@drawable/b13</item>-->
+        <!--<item>@drawable/b14</item>-->
+        <!--<item>@drawable/b15</item>-->
+        <!--<item>@drawable/b16</item>-->
+        <!--<item>@drawable/b17</item>-->
+        <!--<item>@drawable/b18</item>-->
+        <!--<item>@drawable/b19</item>-->
+        <!--<item>@drawable/b20</item>-->
+        <!--<item>@drawable/b21</item>-->
+        <!--<item>@drawable/b22</item>-->
+        <!--<item>@drawable/b23</item>-->
+        <!--<item>@drawable/b24</item>-->
+
+
+    <!--</array>-->
+
+    <!--<array name="images6x6">-->
+        <!--<item>@drawable/</item>-->
+        <!--<item>@drawable/c1</item>-->
+        <!--<item>@drawable/c2</item>-->
+        <!--<item>@drawable/c3</item>-->
+        <!--<item>@drawable/c4</item>-->
+        <!--<item>@drawable/c5</item>-->
+        <!--<item>@drawable/c6</item>-->
+        <!--<item>@drawable/c7</item>-->
+        <!--<item>@drawable/c8</item>-->
+        <!--<item>@drawable/c9</item>-->
+        <!--<item>@drawable/c10</item>-->
+        <!--<item>@drawable/c11</item>-->
+        <!--<item>@drawable/c12</item>-->
+        <!--<item>@drawable/c13</item>-->
+        <!--<item>@drawable/c14</item>-->
+        <!--<item>@drawable/c15</item>-->
+        <!--<item>@drawable/c16</item>-->
+        <!--<item>@drawable/c17</item>-->
+        <!--<item>@drawable/c18</item>-->
+        <!--<item>@drawable/c19</item>-->
+        <!--<item>@drawable/c20</item>-->
+        <!--<item>@drawable/c21</item>-->
+        <!--<item>@drawable/c22</item>-->
+        <!--<item>@drawable/c23</item>-->
+        <!--<item>@drawable/c24</item>-->
+        <!--<item>@drawable/c25</item>-->
+        <!--<item>@drawable/c26</item>-->
+        <!--<item>@drawable/c27</item>-->
+        <!--<item>@drawable/c28</item>-->
+        <!--<item>@drawable/c29</item>-->
+        <!--<item>@drawable/c30</item>-->
+        <!--<item>@drawable/c31</item>-->
+        <!--<item>@drawable/c32</item>-->
+        <!--<item>@drawable/c33</item>-->
+        <!--<item>@drawable/c34</item>-->
+        <!--<item>@drawable/c35</item>-->
+
+    <!--</array>-->
+
+</resources>
